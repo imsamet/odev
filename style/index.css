@@ -1,0 +1,24 @@
+@import url("nav.css");
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'DM Sans', sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+ol,
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
